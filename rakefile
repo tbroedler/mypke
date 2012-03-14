@@ -1,4 +1,6 @@
 
+task :default => :test
+
 desc "Test it"
 task :test do
   require_relative "test"
