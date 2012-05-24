@@ -1,6 +1,8 @@
 require_relative 'mypke'
 require 'minitest/autorun'
 
+# foo
+
 class Position_Test < MiniTest::Unit::TestCase
 
   def test_add
